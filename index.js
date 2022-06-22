@@ -1,0 +1,1 @@
+window.alert('Name: Joseph Philip\nHeight: 6 ft\nCountry: Nigeria');
